@@ -1,0 +1,1 @@
+I have stumbled into how to edit user name and email. I did it! Now it's time to commit!

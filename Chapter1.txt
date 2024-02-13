@@ -1,1 +1,2 @@
-I am learning Version Control Using Git and Command Line.
+I am learning Version Control Using Git and Command Line. This is where I am
+changing thing to the chapter fir Branching and merging example.

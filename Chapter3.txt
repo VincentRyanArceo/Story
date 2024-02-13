@@ -1,1 +1,2 @@
-Everytime I try to git commit, user name nor email is populated.
+Everytime I try to git commit, user name nor email is populated. 
+I am making changes for the branching and merging example.
